@@ -1,0 +1,5 @@
+D 'lmeg': Augmented Engle-Granger Cointegration Test at Higher Order AR(p) Use lmeg With STATA 19
+D
+F lmeg.ado
+F lmeg.dlg
+F lmeg.sthlp
