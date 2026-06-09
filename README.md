@@ -1,6 +1,8 @@
 # lmeg
 Augmented Engle-Granger Cointegration Test at Higher Order AR(p) Use lmeg With STATA 19
 
+https://www.youtube.com/watch?v=DzDklA6HKmc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
